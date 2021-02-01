@@ -1,0 +1,89 @@
+thead th {
+    background-color: rgb(161, 161, 243);
+    box-shadow: rgb(4, 4, 100) 2px 2px;
+    width: 2cm;
+    text-align: center;
+    font-size: 12px;
+    height: 1.5cm;
+    border-radius: 5px;
+    color: rgb(3, 3, 99);
+}   
+tbody td {
+    background-color: rgb(143, 213, 236);
+    box-shadow: rgb(10, 10, 165) 2px 2px;
+    border-radius: 5px;
+    width: 2cm;
+    color: rgb(18, 18, 80); 
+    text-align: center;
+    height: 1.5cm;
+    font-size: 12px;   
+}
+#text2 {
+    color: red;
+}
+tfoot th {
+    background-color: rgb(144, 144, 236);
+    border-radius: 5px;
+    box-shadow: rgb(15, 15, 161) 2px 2px;
+    text-align: center;
+    width: 2cm;
+    height: 1.5cm;
+    font-size: 12px;
+    color: rgb(15, 15, 112); 
+}    
+tbody th {
+    background-color: rgb(141, 141, 199);
+    border-radius: 5px;
+    box-shadow: rgb(10, 10, 190) 2px 2px;
+    text-align: center;
+    width: 2cm;
+    height: 1.5cm;
+    font-size: 12px;
+    color: rgb(16, 16, 134); 
+}
+
+thead td {
+    background-color: rgb(129, 129, 185);
+    border-radius: 5px;
+    box-shadow: rgb(3, 3, 99) 2px 2px;
+    text-align: center;
+    width: 2cm;
+    height: 1.5cm;
+    font-size: 12px;
+    color: rgb(4, 4, 173); 
+}
+#text3 {
+    text-align: center;
+    background-color: rgb(198, 201, 202);
+    box-shadow: rgb(12, 12, 168) 2px 2px;
+    font-size: 12px;
+    width: 2cm;
+    height: 1.5cm;
+    border-radius: 5px;
+    color: rgb(17, 17, 170);
+}
+table {
+    border: 5px;
+    border-radius: 12%;
+    border-color:rgb(0, 0, 0);
+}
+#text1 {
+    width: 2cm;
+    background-color: rgb(148, 148, 148);
+    border-radius: 5px;
+    color: rgb(16, 16, 134); 
+    box-shadow: darkblue 2px 2px;
+    text-align: center;
+    font-size: 12px;
+    height: 1.5cm;
+}
+tfoot td {
+    background-color: rgb(114, 146, 156);
+    border-radius: 5px;
+    box-shadow: rgb(21, 21, 134) 2px 2px;
+    text-align: center;
+    width: 2cm;
+    height: 1.5cm;
+    font-size: 12px;
+    color: rgb(26, 26, 112);
+}
